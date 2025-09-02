@@ -1,4 +1,4 @@
-##Registration Form Validation (JavaScript)
+## Registration Form Validation (JavaScript)
 
 This is a simple client-side form validation script built with vanilla JavaScript. It ensures user inputs are correct before submitting the form.
 
